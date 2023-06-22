@@ -3,6 +3,7 @@
 licenta/
 results/
 data/
+images/
 *.csv
 *.txt
 convert.py
